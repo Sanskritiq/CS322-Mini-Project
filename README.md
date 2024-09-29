@@ -37,6 +37,9 @@ This is the instruction statistic window
 
 - It shows the number of and the percentage of different types of MIPS operations used
 
+### DEMO
+[Demo Video Link](https://drive.google.com/file/d/12gyon2pFIIcTv243baa-45uX1slStztD/view?usp=sharing)
+
 
 
 
